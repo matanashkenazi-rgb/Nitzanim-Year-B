@@ -45,7 +45,6 @@ shopping()
 
 
 
-# asdf#
 
 
 
